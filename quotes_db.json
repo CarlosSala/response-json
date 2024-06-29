@@ -1,0 +1,119 @@
+{
+  "status": "success",
+  "code": 200,
+  "data": {
+    "developer_quotes": [
+      {
+        "id": 1,
+        "quote": "Programs must be written for people to read, and only incidentally for machines to execute.",
+        "author": "Harold Abelson",
+        "source": "Structure and Interpretation of Computer Programs",
+        "date": "1984-07-15",
+        "context": "Importance of readability in code",
+        "category": "Programming Philosophy",
+        "language": "English",
+        "tags": ["readability", "code", "programming"]
+      },
+      {
+        "id": 2,
+        "quote": "First, solve the problem. Then, write the code.",
+        "author": "John Johnson",
+        "source": "Computer Programming Wisdom",
+        "date": "1997-11-08",
+        "context": "Approach to coding",
+        "category": "Problem Solving",
+        "language": "English",
+        "tags": ["problem solving", "code", "development"]
+      },
+      {
+        "id": 3,
+        "quote": "Any fool can write code that a computer can understand. Good programmers write code that humans can understand.",
+        "author": "Martin Fowler",
+        "source": "Refactoring: Improving the Design of Existing Code",
+        "date": "1999-06-28",
+        "context": "Writing maintainable code",
+        "category": "Best Practices",
+        "language": "English",
+        "tags": ["maintainability", "code", "programming"]
+      },
+      {
+        "id": 4,
+        "quote": "The only way to go fast is to go well.",
+        "author": "Robert C. Martin",
+        "source": "Clean Code: A Handbook of Agile Software Craftsmanship",
+        "date": "2008-08-11",
+        "context": "Quality over speed",
+        "category": "Software Craftsmanship",
+        "language": "English",
+        "tags": ["quality", "speed", "development"]
+      },
+      {
+        "id": 5,
+        "quote": "Simplicity is the soul of efficiency.",
+        "author": "Austin Freeman",
+        "source": "Efficiency in Programming",
+        "date": "2005-03-21",
+        "context": "Importance of simplicity",
+        "category": "Efficiency",
+        "language": "English",
+        "tags": ["simplicity", "efficiency", "programming"]
+      },
+      {
+        "id": 6,
+        "quote": "Make it work, make it right, make it fast.",
+        "author": "Kent Beck",
+        "source": "Extreme Programming Explained",
+        "date": "2000-10-09",
+        "context": "Development priorities",
+        "category": "Agile Development",
+        "language": "English",
+        "tags": ["agile", "development", "priorities"]
+      },
+      {
+        "id": 7,
+        "quote": "Programs are meant to be read by humans and only incidentally for computers to execute.",
+        "author": "Donald Knuth",
+        "source": "The Art of Computer Programming",
+        "date": "1968-01-01",
+        "context": "Code readability",
+        "category": "Programming Philosophy",
+        "language": "English",
+        "tags": ["readability", "code", "programming"]
+      },
+      {
+        "id": 8,
+        "quote": "The best way to predict the future is to implement it.",
+        "author": "David Heinemeier Hansson",
+        "source": "Rework",
+        "date": "2010-03-09",
+        "context": "Proactive approach",
+        "category": "Innovation",
+        "language": "English",
+        "tags": ["future", "implementation", "innovation"]
+      },
+      {
+        "id": 9,
+        "quote": "There are only two kinds of languages: the ones people complain about and the ones nobody uses.",
+        "author": "Bjarne Stroustrup",
+        "source": "The C++ Programming Language",
+        "date": "1985-10-01",
+        "context": "Programming languages",
+        "category": "Programming Languages",
+        "language": "English",
+        "tags": ["languages", "complaints", "programming"]
+      },
+      {
+        "id": 10,
+        "quote": "Talk is cheap. Show me the code.",
+        "author": "Linus Torvalds",
+        "source": "Email exchange",
+        "date": "2000-08-25",
+        "context": "Action over words",
+        "category": "Open Source",
+        "language": "English",
+        "tags": ["action", "code", "open source"]
+      }
+    ]
+  },
+  "message": "Developer quotes retrieved successfully"
+}
